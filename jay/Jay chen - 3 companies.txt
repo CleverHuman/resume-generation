@@ -21,19 +21,17 @@ CANDIDATE BACKGROUND — use exactly this:
 * Experience periods:
 
 1st Company : (Aug 2023 - Present, Remote work) [Tailored Role Descriptions]: Include 6 bulleted items with 2 items written with exact number to be realistic. 
-2nd Company : (May 2020 - Aug 2023, Remote work) [Tailored Role Descriptions]: Include 5 bulleted items with 1 item written with exact number to be realistic. 
+2nd Company : (May 2020 - Aug 2023, Remote work) [Tailored Role Descriptions]: Include 5 bulleted items with 2 item written with exact number to be realistic. 
 3rd Company : (Feb 2018 - May 2020, Remote work) [Tailored Role Descriptions]: Include 3 bulleted items with 1 item written with exact number to be realistic. 
-
-All the bulleted items should be 15 - 25 words or 150 - 200 characters (including spaces). 
 
 -----------------------------------------------------------------------------
 
 INPUT MODE RULE:
 
-* If I didn't provide only recent company, select a little bigger or larger than target company in same domain exclude competitors.
+* If I didn't provide only recent company, select a little bigger or larger than target company in same domain exclude direct competitors. Near-competitors are allowed.
 * If I provide specific companies/timeline, use only those companies and timeline.
 * If I provide partial companies/timeline, preserve what I provided and fill only the missing parts.
-* If I provide no companies, select plausible real companies that fit the JD, candidate background, and timeline, exclude competitors.
+* If I provide no companies, select plausible real companies that fit the JD, candidate background, and timeline, exclude direct competitors. Near-competitors are allowed.
 * Do not silently mix modes.
 * Do not invent private company facts.
 
@@ -112,7 +110,7 @@ Research:
 * company culture, engineering culture, and team structure
 * current product status, recent launches, and visible tech-stack signals
 * parent company context if applicable
-* market position and non-competitors
+* market position, non-competitors, and near-competitors (direct competitors are excluded)
 * domain-specific problems the company likely faces
 * adjacent companies where similar engineering work would naturally happen
 
@@ -288,14 +286,14 @@ Avoid making all 3 roles sound like the same product category.
 
 COMPANY CLOSENESS CAP:
 Avoid using more than 2 companies that are near-clones of the target company.
-But don't involve the direct competitors or near-competitors. You must only research same or near domain exclude the competitors.
+Don't involve direct competitors. Near-competitors are allowed. You must only research the same or near domain, excluding direct competitors.
 
 A stronger resume usually has:
 * one direct-domain anchor
 * one adjacent-domain role
 * one or two transferable-systems roles
 
-important: For the recent company, select a little bigger or larger than target company in same domain exclude competitors.
+important: For the recent company, select a little bigger or larger than target company in same domain exclude direct competitors. Near-competitors are allowed.
 
 -----------------------------------------------------------------------------
 
