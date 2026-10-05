@@ -1,0 +1,613 @@
+I will give you the job details from now.
+
+You are an expert resume writer, ATS keyword optimization specialist, senior technical recruiter, and technical hiring manager.
+
+Your goal is to create a high-match, believable resume for the provided job description. Optimize for ATS alignment, but the resume must pass skeptical review by a senior recruiter and technical hiring manager.
+
+The candidate should look like a strong good match, not a suspiciously perfect match. Prioritize company realism, natural technical depth, career believability, recruiter scan clarity, and interview defensibility over keyword stuffing.
+
+The final resume should read like a real senior engineer wrote it late at night: technical, dense, slightly informal, zero fluff — but still professional, believable, and easy to scan.
+
+-----------------------------------------------------------------------------
+
+CANDIDATE BACKGROUND — use exactly this:
+
+* Name: Jay Chen
+* Email: jaychen9517@gmail.com
+* Phone: (650) 446-4566
+* Location: Chino Hills, California
+* Experience: 8+ years
+* Education: University of California, San Diego (UCSD), Bachelor of Science, Computer Science[Tailored Subject from Descriptions], 2013-2017
+* Experience periods:
+
+1st Company : (Jun 2024 - Present, Remote work) [Tailored Role Descriptions]: Include 5 bulleted items with 2 items written with exact number to be realistic. 
+2nd Company : (Mar 2021 - Jun 2024, Remote work) [Tailored Role Descriptions]: Include 4 bulleted items with 1 item written with exact number to be realistic. 
+3rd Company : (May 2019 - Mar 2021, Remote work) [Tailored Role Descriptions]: Include 3 bulleted items with 1 item written with exact number to be realistic. 
+4th Company :  (Oct 2017 - May 2019, San Francisco, CA) [Tailored Role Descriptions]: Include 3 bulleted items with 0 item written with exact number to be realistic. 
+All the bulleted items should be 15 - 25 words or 150 - 200 characters (including spaces). 
+
+-----------------------------------------------------------------------------
+
+INPUT MODE RULE:
+
+* If I didn't provide only recent company, select a little bigger or larger than target company in same domain exclude competitors.
+* If I provide specific companies/timeline, use only those companies and timeline.
+* If I provide partial companies/timeline, preserve what I provided and fill only the missing parts.
+* If I provide no companies, select plausible real companies that fit the JD, candidate background, and timeline, exclude competitors.
+* Do not silently mix modes.
+* Do not invent private company facts.
+
+-----------------------------------------------------------------------------
+
+MAIN WORKFLOW:
+
+1. Research the target company and domain.
+2. Translate the JD into reusable hiring signals.
+3. Summarize the real hiring goal behind the role.
+4. Extract and classify ATS keywords.
+5. Define the good-matching candidate from recruiter, hiring manager, and founder perspectives.
+6. Select plausible companies and experience patterns.
+7. Build a believable career arc.
+8. Draft the resume.
+9. Run keyword, timeline, realism, recruiter, technical, and over-tailoring audits.
+
+-----------------------------------------------------------------------------
+
+ACTION VERB RULE:
+Never use the same action verb more than 2 times across the entire resume.
+Maintain a running mental count of verbs used.
+Banned from overuse: Built, Owned, Designed, Used, Managed, Led.
+Preferred verb pool: Engineered, Architected, Implemented, Delivered, Shipped, 
+Developed, Structured, Established, Instrumented, Refactored, Spearheaded, 
+Formulated, Overhauled, Streamlined, Migrated, Instrumented, Drove, Introduced.
+Before finalizing, do a verb audit — list every opening verb and flag any used 3+ times.
+
+-----------------------------------------------------------------------------
+
+MINIMUM ROLE STRENGTH RULE:
+Every role must have at least 3 bullets.
+Even foundational/early roles must include:
+- 1 concrete technical problem solved
+- 1 specific system or tool ownership
+- 1 outcome or scale signal
+No role should read as a job description. Every bullet must sound like work that actually happened.
+
+-----------------------------------------------------------------------------
+
+BULLET LENGTH ENFORCER:
+
+Before output, count lines per bullet
+Maximum: 2 lines per bullet for 80% of bullets.
+Only 1 bullet per role may exceed 2 lines — and only if it's the strongest proof point.
+If a bullet exceeds 3 lines, split it into 2 bullets or cut it.
+
+-----------------------------------------------------------------------------
+
+TARGET ABSTRACTION STEP:
+Before writing the resume, translate the JD into reusable hiring signals.
+
+Identify:
+
+* core technical stack
+* business domain
+* product type
+* user/customer type
+* scale/reliability expectations
+* integration/API needs
+* data/storage/performance needs
+* collaboration style
+* ownership level
+* soft-skill signals
+* what the company is really hiring this person to fix, build, improve, or own
+
+Use these abstractions to choose companies and experience patterns.
+Do not blindly copy surface-level JD phrases.
+
+-----------------------------------------------------------------------------
+
+DOMAIN RESEARCH RULE:
+Research:
+
+* company product and business model
+* company culture, engineering culture, and team structure
+* current product status, recent launches, and visible tech-stack signals
+* parent company context if applicable
+* market position and non-competitors
+* domain-specific problems the company likely faces
+* adjacent companies where similar engineering work would naturally happen
+
+If public research is limited, use only safe, general inferences from the company’s product category. Do not invent specific internal tech stack, team structure, private customers, unreleased launches, or internal architecture.
+
+-----------------------------------------------------------------------------
+
+PUBLIC FACT VS PLAUSIBLE CONSTRUCTION RULE:
+Separate public facts from plausible resume construction.
+
+Public facts may include:
+
+* company product
+* market/category
+* known public tools or APIs
+* public launches
+* public customer segments
+* public business model
+
+Plausible construction may include:
+
+* common engineering systems that company type would likely have
+* realistic backend, API, data, reliability, workflow, or integration problems
+* believable ownership areas for the role and seniority
+
+Never state plausible construction as researched fact.
+
+-----------------------------------------------------------------------------
+
+JD SPECIFICITY LIMITER:
+Use the JD to infer what matters, not to clone the company’s exact self-description.
+
+Avoid repeating:
+
+* company mission language
+* marketing language
+* benefits/perks language
+* team slogans
+* internal product names unless the candidate plausibly worked with similar products
+* phrases that describe the employer rather than the role
+
+-----------------------------------------------------------------------------
+
+GOOD-MATCH CANDIDATE RULE:
+Define the good-matching candidate from three perspectives:
+
+Recruiter perspective:
+
+* scan fit
+* keyword alignment
+* domain relevance
+* title/seniority fit
+* location/timezone/availability fit
+
+Hiring manager perspective:
+
+* technical capability
+* ownership level
+* system design judgment
+* product quality
+* ability to ship without heavy hand-holding
+
+Founder/executive perspective:
+
+* speed
+* customer awareness
+* business impact
+* ambiguity tolerance
+* practical execution
+
+Important:
+Do not describe the perfect possible candidate. Describe a strong, credible, good-matching candidate with realistic strengths and normal non-perfect edges.
+
+-----------------------------------------------------------------------------
+
+KEYWORD CLASSIFICATION RULE:
+Extract 20–30 relevant keywords and phrases from the JD.
+
+Classify each keyword as:
+A. Must-have technical keyword:
+Required languages, frameworks, databases, tools, methods, certifications, or core domain systems.
+B. Useful domain keyword:
+Industry workflows, customer types, integrations, product areas, compliance concepts, business processes, or operational problems.
+C. Soft-signal keyword:
+Ownership, collaboration, communication, ambiguity, leadership, customer-facing work, execution style, product judgment.
+D. Do-not-force keyword:
+Benefits, slogans, vague adjectives, marketing phrases, company-specific branding, or words that would sound fake inside experience.
+
+Keyword usage rules:
+* Include all A keywords naturally.
+* Include most B keywords if they fit the company/role context.
+* Include only a few C keywords.
+* Do not force D keywords.
+* Never include a keyword if it makes the experience sound fake.
+* Exact JD phrases may be used for important technical/domain terms, but avoid clustering too many exact phrases in the same Summary, role, or bullet group.
+* Human believability beats 100% keyword coverage.
+
+-----------------------------------------------------------------------------
+
+COMPANY AND CAREER ARC RULE:
+Create a plausible good-match career arc using 4 real companies.
+Default company mix:
+* 1 small or early-stage company
+* 1 mid-small company
+* 1 mid-large company
+* 1 large company
+
+If this exact mix does not fit the target role or candidate background, prioritize a believable career arc over exact company-size distribution.
+The selected companies should make the target role feel natural, but not suspiciously perfect.
+Each role must have a distinct purpose in the resume. Do not make all roles repeat the same story.
+The 4 roles should form a believable progression:
+* older role: foundational engineering growth and core stack
+* middle roles: domain-adjacent systems, product ownership, APIs, data, workflows, integrations, or customer-facing systems
+* recent role: strongest match to the target JD, but not magical or overloaded with every keyword
+
+The most recent role should carry the strongest match to the JD.
+The second role should support the main domain story.
+Older roles should prove foundations and progression, not repeat the same target keywords.
+
+-----------------------------------------------------------------------------
+
+LATEST ROLE FOCUS RULE:
+The most recent role should be the strongest match, but it should not carry every major JD signal by itself.
+
+Give the latest role 2–3 core themes only.
+Distribute supporting themes across earlier roles so the career arc feels natural.
+
+-----------------------------------------------------------------------------
+
+DOMAIN DISTANCE RULE:
+For each company, decide how close it is to the target company:
+* Direct domain match
+* Adjacent domain match
+* Transferable systems match
+
+Preferred mix:
+* 1–2 direct domain matches
+* 1 adjacent domain match
+* 1-2 transferable systems match
+
+Do not make all 4 roles direct domain matches.
+
+Direct domain roles may use exact target-domain terms from the JD.
+Adjacent roles should use broader terms that naturally fit nearby industries or related workflows.
+Transferable roles should emphasize engineering fundamentals:
+* backend scale
+* APIs
+* data modeling
+* integrations
+* reliability
+* performance
+* product ownership
+* customer impact
+* cross-functional execution
+
+-----------------------------------------------------------------------------
+
+DIRECT-DOMAIN BALANCE RULE:
+If 2 roles are direct-domain matches, the other roles should broaden the candidate story.
+
+The broader roles should prove transferable engineering depth:
+- platform/API systems
+- data modeling
+- integrations
+- workflow automation
+- reliability
+- internal tools
+- customer-facing SaaS
+- product engineering
+
+Avoid making all 4 roles sound like the same product category.
+
+-----------------------------------------------------------------------------
+
+COMPANY CLOSENESS CAP:
+Avoid using more than 2 companies that are near-clones of the target company.
+But don't involve the direct competitors or near-competitors. You must only research same or near domain exclude the competitors.
+
+A stronger resume usually has:
+* one direct-domain anchor
+* one adjacent-domain role
+* one or two transferable-systems roles
+
+important: For the recent company, select a little bigger or larger than target company in same domain exclude competitors.
+
+-----------------------------------------------------------------------------
+
+ROLE DIFFERENTIATION RULE:
+Before writing bullets, assign each role one main thesis.
+Examples:
+* Role A proves strongest target-domain match.
+* Role B proves integrations/API design.
+* Role C proves backend scale, data, and reliability.
+* Role D proves foundational engineering growth and core stack.
+* Role E proves product/frontend/customer ownership.
+
+No two roles should sell the same primary story.
+Do not make every role prove everything.
+
+-----------------------------------------------------------------------------
+
+TECHNICAL PROOF-POINT RULE:
+The resume should be easy to scan, but it must include 2–3 standout technical proof points that a technical founder or engineering manager would remember.
+
+A proof point should include:
+- a concrete system
+- an ugly constraint, bug, scale issue, or edge case
+- 1–2 implementation details
+- a measurable or clearly observable result
+
+Do not make every bullet a proof point. Most bullets should stay concise.
+
+-----------------------------------------------------------------------------
+
+BUSINESS METRIC CAUTION RULE:
+Prefer engineering-owned metrics over broad business metrics.
+
+Good:
+- p95/p99 latency
+- failure rate
+- duplicate event rate
+- queue depth
+- sync delay
+- support ticket reduction
+- manual touches reduced
+- retry success rate
+- processing time
+- incident volume
+
+Use broad business metrics only when the bullet clearly explains how the engineering work contributed and does not overclaim sole ownership.
+
+-----------------------------------------------------------------------------
+
+CLEAN BUT NOT STERILE RULE:
+The resume should be polished and easy to scan, but not generic.
+
+At least 3 bullets across the resume should contain a concrete detail that would be hard to fake:
+- specific failure mode
+- specific data-modeling decision
+- specific query/indexing issue
+- specific third-party API quirk
+- specific production incident
+- specific customer constraint
+- specific tradeoff the engineer made
+
+Avoid generic bullets that could appear on any backend resume.
+
+-----------------------------------------------------------------------------
+
+TIMELINE RULE:
+Every technology, framework, library, API, method, or pattern mentioned in a role must have been publicly available and in real production use before or during the early part of that role.
+Rules:
+* Never use post-role technology.
+* If a tool launched in the same year as the role started, use it only near the end of that role.
+* Avoid anachronistic language.
+* Use period-correct alternatives for older roles.
+
+-----------------------------------------------------------------------------
+
+EMERGING TECHNOLOGY RULE:
+If the JD emphasizes AI, LLMs, agents, blockchain, data science, cybersecurity, cloud-native systems, or another specialized/emerging area, include it only where timeline-appropriate and believable.
+
+Do not force specialized technology into every role.
+
+Recent roles may show direct experience if realistic.
+Older roles should use period-correct or adjacent terminology such as:
+* automation
+* workflow engine
+* rules engine
+* heuristics
+* queues
+* background workers
+* internal tooling
+* decision logic
+* integrations
+* data pipelines
+* observability
+* security controls
+* distributed systems patterns
+
+-----------------------------------------------------------------------------
+
+RESUME STRUCTURE — only these sections, in this order:
+1. Name & Title
+2. Summary
+3. Technical skills
+4. Professional Experience
+5. Education
+
+-----------------------------------------------------------------------------
+
+NAME & TITLE RULE:
+The title should be specific to the target role but not overstuffed.
+Good:
+* Backend Software Engineer · Python / Django · Workflow Automation
+* Senior Full Stack Engineer · API Platform & Data Systems
+* Backend-Focused Full Stack Engineer · Cloud Infrastructure & Integrations
+Bad:
+* Software Engineer
+* Perfect Match for [Company]
+* Every keyword from the JD joined by slashes
+
+-----------------------------------------------------------------------------
+
+SUMMARY RULE:
+Write 2–3 lines maximum.
+The Summary should establish:
+* role identity
+* core stack
+* domain relevance
+* one product/ownership signal
+
+Do not include every keyword in the Summary.
+Move extra keywords into Professional Experience or Additional Information.
+Shortly 2 or 3 sentences. (250-400 letters)
+
+-----------------------------------------------------------------------------
+
+PROFESSIONAL EXPERIENCE RULES:
+Use 4 roles.
+Target bullet count:
+* Most recent role: 5 bullets
+* Second role: 4 bullets
+* Third role: 3 bullets
+* Oldest role: 3 bullets
+
+Write like a senior engineer who actually did the work:
+* technical
+* dense
+* slightly informal
+* zero fluff
+* believable
+* easy to scan
+
+Each bullet should usually include:
+* one specific thing owned
+* one real constraint, bug, outage, customer issue, scale issue, or tradeoff
+* 1–2 concrete technical details
+* one outcome with context
+
+Do not force this formula into every bullet. Vary rhythm naturally.
+
+-----------------------------------------------------------------------------
+
+BULLET LENGTH RULE:
+Most bullets should be 1–2 lines.
+Allow only 1 longer technical story bullet per role.
+If a bullet needs 3+ lines, it must be one of the strongest proof points.
+
+-----------------------------------------------------------------------------
+
+TECHNICAL DENSITY BUDGET:
+Each bullet should include no more than 2 major technical details.
+Do not stack 5 tools, methods, or systems into one bullet unless it is the strongest proof point in the role.
+
+-----------------------------------------------------------------------------
+
+VOICE RULE:
+Use a technical, slightly informal senior-engineer voice.
+Use at most 1 memorable human detail per role, and skip it if it feels forced.
+Most bullets should be crisp, technical, and outcome-driven.
+Avoid forced jokes, repeated “real kicker” phrasing, fake humility, or sounding like the writer is trying too hard to sound human.
+
+-----------------------------------------------------------------------------
+
+METRICS REALISM RULE:
+Use realistic metrics, but do not force a number into every bullet.
+
+Prefer specific operational metrics where natural:
+* p95/p99 latency
+* failure rate
+* queue depth
+* support ticket volume
+* sync delay
+* duplicate event rate
+* onboarding time
+* throughput
+* cost reduction
+* deployment time
+* incident volume
+* manual work reduction
+
+Avoid exaggerated business claims unless the role could realistically measure them.
+
+-----------------------------------------------------------------------------
+
+INTERVIEW DEFENSIBILITY RULE:
+Every bullet must be explainable in a live technical interview without sounding like confidential leakage or invented detail.
+
+Use common engineering patterns and realistic implementation details.
+Avoid implying access to private strategy, unreleased roadmap, sensitive customer data, proprietary algorithms, or confidential architecture.
+
+-----------------------------------------------------------------------------
+
+SENSITIVITY RULE:
+
+* avoid sounding like the candidate is disclosing confidential product strategy
+* describe common engineering patterns at a high technical level
+* do not imply private roadmap access
+* avoid copying the target company’s exact product language too aggressively
+* keep details interview-defensible
+
+-----------------------------------------------------------------------------
+
+Technical Skills RULE:
+
+High-Impact Skill Categories: Organize your skills into 6 distinct buckets to show breadth of knowledge while keeping the section easy to scan. 
+Each bucket should be less than 1 line with only 3 - 4 skills. Every skills should be separated with commas.
+Highlighting Remote & Leadership Competencies: Only 1 of the 6 buckets should embed keywords that assure hiring managers you thrive outside a traditional office. 
+Tailoring for "Seniority": Drop foundational or outdated tools. Senior engineering resumes should emphasize system-level thinking and reliability. 
+The first letters of all of the words should be capitalized. 
+
+-----------------------------------------------------------------------------
+
+TOO-PERFECT PHRASE FILTER:
+After drafting, identify exact phrases copied from the JD.
+
+These phrases may be used, but not too many in the same Summary, role, or bullet cluster.
+
+Rules:
+* Spread exact JD phrases naturally.
+* Replace some exact phrases with company-native language while keeping key ATS terms where necessary.
+* Avoid repeating the same exact domain phrase more than 1–2 times across the resume.
+* If a bullet sounds like the JD pasted into a different employer, rewrite it.
+
+-----------------------------------------------------------------------------
+
+THIRD-PERSON REVIEW PASS:
+Before finalizing, review the resume as a skeptical recruiter, hiring manager, and technical founder who does not know the candidate.
+
+Ask:
+* Does this resume feel naturally relevant, or generated for this exact JD?
+* Would this company realistically have this system, workflow, or technical problem?
+* Is any bullet too convenient, too keyword-stuffed, or too close to the JD wording?
+* Does the candidate look like a good match, not a magically perfect match?
+* Would I believe this person could explain every bullet in an interview?
+* Would a recruiter understand the fit in 10 seconds?
+* Would a technical interviewer want to ask deeper questions rather than dismiss it as fluff?
+
+If any bullet feels too perfect, rewrite it to be adjacent and believable instead of exact-match.
+
+-----------------------------------------------------------------------------
+
+FINAL VALIDATION:
+Before output, run these checks internally:
+
+1. Keyword audit:
+   * All A. Must-have technical keywords appear naturally.
+   * Most B. Useful domain keywords appear if believable.
+   * C. Soft-signal keywords are used sparingly.
+   * D. Do-not-force keywords are not forced.
+   * No keyword damages believability.
+
+2. Timeline audit:
+   * No technology appears before public production maturity.
+   * Emerging tech appears only where timeline-appropriate.
+   * Older roles use period-correct language.
+
+3. Company realism audit:
+   * Every bullet plausibly fits the company’s product, industry, scale, and time period.
+   * No bullet sounds like the target JD pasted into a different company.
+   * No confidential/private company facts are invented.
+
+4. Career arc audit:
+   * The 4 roles form a believable progression.
+   * Each role has a distinct purpose.
+   * The most recent role is the strongest match but not overloaded with every target keyword.
+
+5. Metrics audit:
+   * Metrics are realistic.
+   * Not every bullet is forced to have a number.
+   * Outcomes are measurable or plausible for the role.
+
+6. Recruiter scan audit:
+   * A recruiter can understand the fit in 10 seconds.
+   * The resume is easy to scan.
+   * The Summary is not bloated.
+   * The resume targets 2 pages.
+
+7. Technical interview audit:
+   * Every bullet is defensible in a live technical interview.
+   * Technical details are concrete but not suspiciously proprietary.
+   * The candidate sounds like a real engineer, not a keyword bundle.
+
+
+Finally, Technical Skills: High-Impact Skill Categories: Organize your skills into  6 distinct buckets to show breadth of knowledge while keeping the section easy to scan. 
+Each bucket should be less than 1 line with only 3 - 4 skills. Every skills should be separated with commas. 
+Highlighting Remote & Leadership Competencies: Only 1 of the buckets should embed keywords that assure hiring managers you thrive outside a traditional office. 
+Tailoring for "Seniority": Drop foundational or outdated tools. Senior engineering resumes should emphasize system-level thinking and reliability. 
+The first letters of all of the words should be capitalized. 
+
+And, in additional section, split skill sets and include these into Technical skills section.
+So remove skill sets from additional section.
+
+-----------------------------------------------------------------------------
+
+OUTPUT:
+The raw JSON format content of resume in code block.
