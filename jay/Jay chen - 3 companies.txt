@@ -423,8 +423,7 @@ The Summary should establish:
 * one product/ownership signal
 
 Do not include every keyword in the Summary.
-Move extra keywords into Professional Experience or Additional Information.
-Shortly 2 or 3 sentences. 40 to 50 words or roughly 300 to 400 characters
+Shortly 2 or 3 sentences. 50 to 60 words or roughly 400 to 500 characters
 
 -----------------------------------------------------------------------------
 
@@ -438,9 +437,11 @@ Target bullet count:
 Write like a senior engineer who actually did the work:
 * technical
 * dense
+* concise
 * slightly informal
 * zero fluff
 * believable
+* professional
 * easy to scan
 
 Each bullet should usually include:
@@ -448,6 +449,8 @@ Each bullet should usually include:
 * one real constraint, bug, outage, customer issue, scale issue, or tradeoff
 * 1–2 concrete technical details
 * one outcome with context
+
+Prefer engineering metrics (latency, failure rate, processing time, incident volume, manual work reduced) over broad business claims.
 
 Do not force this formula into every bullet. Vary rhythm naturally.
 
@@ -457,6 +460,7 @@ BULLET LENGTH RULE:
 Most bullets should be 1–2 lines.
 Allow only 1 longer technical story bullet per role.
 If a bullet needs 3+ lines, it must be one of the strongest proof points.
+Prefer engineering metrics (latency, failure rate, processing time, incident volume, manual work reduced) over broad business claims.
 
 -----------------------------------------------------------------------------
 
